@@ -77,3 +77,10 @@ batchSize;default;sync-off;jm-wal;jm-off;lm-excl;sync-off&jm-off&lm-excl
 
   * https://sqlite.org/pragma.html
   * https://stackoverflow.com/Questions/364017/faster-bulk-inserts-in-sqlite3
+
+## Contribute:
+
+  * multi-threaded scenario
+  * bulk insert with virtual function
+  * bulk insert with in-memory DB backup into real DB
+  * automatic cleanup during tests run
