@@ -70,7 +70,7 @@ batchSize;default;sync-off;jm-wal;jm-off;lm-excl;sync-off&jm-off&lm-excl
 
 ## Chart
 
-![](https://i.stack.imgur.com/Q8SBP.png)
+![](./chart.png)
 
 
 ## Info:
